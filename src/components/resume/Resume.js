@@ -41,6 +41,7 @@ const Resume = () => {
           >
             Autres aptitudes
           </li>
+         </ul>
          </div>
       {educationData && <Education />}
       {skillData && <Skills />}
