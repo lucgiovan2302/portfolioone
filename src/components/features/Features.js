@@ -15,23 +15,16 @@ const Features = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-120 xl:gap-20">
         <Card
           title="Création de site vitrine - 200 000 ar"
-          des="Entre 5 et 10 pages, le site vitrine présente une société, ses prestations
+          des="Entre 5 et 10 pages, le site vitrine présente une société, ses prestations, responsive,
           ou ses produits sans proposer de vente en ligne. SEO inclus, sans hebergement"
           icon={<FaGlobe />}
         />
         <Card
           title="Création de site e-commerce - 1 500 000 ar"
-          des=" - Pages illimitées
-          Compatible iphone,tablette, PC,Mac
-          Installation par nos soins
-          site en 1 langue
-          15 produits (installés par nos soins)
-          Module panier, module de livraison
-          Module de paiement : Paypal, carte de crédit, mobile money
+          des=" - Pages illimitées, site responsive, site en 1 langue, 15 produits
+          Module panier, module de livraison,Module de paiement : Paypal, carte de crédit, mobile money
           Autres modules : slider d'images ,google map,réseaux sociaux, galerie photos & vidéos,actualités
-          6 pages internes de textes installées
-          1 formulaire de contact/devis
-          Contenus optimisés SEO"
+          6 pages internes de textes installées, 1 formulaire de contact/devis, Contenus optimisés SEO"
           icon={<FaGlobe />}
         />
         <Card
