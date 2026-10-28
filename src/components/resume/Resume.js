@@ -41,6 +41,7 @@ const Resume = () => {
           >
             Autres aptitudes
           </li>
+      </div>
     </section>
   );
 }
