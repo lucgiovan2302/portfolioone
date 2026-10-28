@@ -14,13 +14,13 @@ const Features = () => {
       <Title title="Services" des="Mes activités" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-120 xl:gap-20">
         <Card
-          title="Création de site vitrine - 200 000 ar"
+          title="Création de site vitrine - à partir de 200 000 ar"
           des="Entre 5 et 10 pages, le site vitrine présente une société, ses prestations, responsive,
           ou ses produits sans proposer de vente en ligne. SEO inclus, sans hebergement"
           icon={<FaGlobe />}
         />
         <Card
-          title="Création de site e-commerce - 1 500 000 ar"
+          title="Création de site e-commerce - à partir de 1 300 000 ar"
           des=" - Pages illimitées, site responsive, site en 1 langue, 15 produits
           Module panier, module de livraison,Module de paiement : Paypal, carte de crédit, mobile money
           Autres modules : slider d'images ,google map,réseaux sociaux, galerie photos & vidéos,actualités
@@ -28,21 +28,55 @@ const Features = () => {
           icon={<FaGlobe />}
         />
         <Card
-          title="Refonte de site internet"
+          title="Refonte de site vitrine - à partir de 400 000 ar"
           des="Votre site internet est obsolète ? 
-          Vous changez de positionnement ou de stratégie ?"
+          ajustement graphique, correction de bugs, structure de base"
           icon={<AiFillAppstore />}
         />
         <Card
-          title="Référencement naturel - SEO"
+          title="Référencement naturel - SEO - à partir de 400 000 ar"
           des="Pour générer du trafic, un site internet doit être
           bien positionné après la saisie d’une requête."
           icon={<SiProgress />}
         />
         <Card
           title="Création identité visuelle"
-          des="Elle est la base de votre stratégie marketing. 
-          Elle doit attirer votre client, être claire et facilement mémorisable."
+          des="Logo et logotype, Charte graphique, Carte de visite, Papier à en-tête, Signature e-mail"
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Visuels pour les réseaux sociaux"
+          des="Publications Facebook et Instagram, Stories et Reels (couvertures, Carrousels informatifs, Bannières de couverture, Miniatures YouTube, Visuels publicitaires."
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Supports publicitaires et marketing"
+          des="Affiches publicitaires, Flyers, Dépliants, Brochures, Bannières web, Panneaux publicitaires, Roll-up."
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Packaging et produits"
+          des="Emballages de produits, Étiquettes, Boîtes personnalisées, Sacs commerciaux, Stickers, Design de bouteilles et flacons"
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Packaging et produits"
+          des="Emballages de produits, Étiquettes, Boîtes personnalisées, Sacs commerciaux, Stickers, Design de bouteilles et flacons"
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Supports événementiels"
+          des="Invitations, Affiches de concerts, Billets et tickets, Badges événementiels, Visuels pour conférences"
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Édition et mise en page"
+          des="Couvertures de livres, Magazines, Catalogues, Menus de restaurants, CV professionnels"
+          icon={<SiAntdesign />}
+        />
+        <Card
+          title="Design digital (Web et UI)"
+          des="Maquettes de sites web, Interfaces d'applications mobiles, Bannières digitales, Icônes, Newsletters, Visuels pour boutiques en ligne"
           icon={<SiAntdesign />}
         />
       </div>
