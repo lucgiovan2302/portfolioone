@@ -17,6 +17,17 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
+          title="CREATION SITE VITRINE - 200 000 Ar."
+          des=" La conception (et encore plus la refonte) d’un site internet mérite une attention 
+          toute particulière dans les choix techniques et ergonomiques à partis des contenus et photos que vous aurez arrêtés. 
+          Nous développons des sites responsive omnicanal (PC, Tablette et Smartphone) qui répondent aux attentes de nos clients. 
+          Leur visibilité sur les moteurs de recherches est assuré par un référencement naturel optimisé (SEO). 
+          Nous pouvons également en assurer la maintenance technique et l’hébergement 
+          sur des Data-Center certifiés Green Web et ordonnancer une campagne Adwords si vous le décider."
+          src={projectOne}
+        />
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
           title="CREATION ET REFONTE DE SITE."
           des=" La conception (et encore plus la refonte) d’un site internet mérite une attention 
           toute particulière dans les choix techniques et ergonomiques à partis des contenus et photos que vous aurez arrêtés. 
