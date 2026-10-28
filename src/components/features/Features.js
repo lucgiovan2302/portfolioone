@@ -19,7 +19,6 @@ const Features = () => {
           ou ses produits sans proposer de vente en ligne. SEO inclus, sans hebergement"
           icon={<FaGlobe />}
         />
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-6 xl:gap-20">
         <Card
           title="Création de site vitrine"
           des="Entre 5 et 10 pages, le site vitrine présente une société, ses prestations
