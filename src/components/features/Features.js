@@ -12,7 +12,7 @@ const Features = () => {
       className="w-full py-200 border-b-[1px] border-b-black"
     >
       <Title title="Services" des="Mes activités" />
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-12 xl:gap-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-12 xl:gap-20">
         <Card
           title="Création de site vitrine - 200 000 ar"
           des="Entre 5 et 10 pages, le site vitrine présente une société, ses prestations
