@@ -21,7 +21,7 @@ const Education = () => {
             des="récuperation des maximums possible"
           />
           <ResumeCard
-            title="FORFAIT COMBINE - 70 000"
+            title="FORFAIT COMBINE - 70 000 ar"
             des="Diagnostic + Récupération données + installation systeme"
           />
         </div>
