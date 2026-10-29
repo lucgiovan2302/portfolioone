@@ -11,7 +11,7 @@ const Education = () => {
     >
       {/* part one */}
       <div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1920px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-14 w-[1800px] h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="INSTALLATION SYSTEME - 20 000 ar"
             des="OS + Pilote et logiciel de base"
